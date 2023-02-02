@@ -1,2 +1,2 @@
-## Personal Information Idetity
+## Personal Information Identity
 ---
